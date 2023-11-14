@@ -3,6 +3,9 @@ import { memo, useEffect, useRef} from "react"
 import './_Notification.css'
 import { Status } from "../../types"
 
+import imgSucces from '../../assets/images/icons/success.svg';
+import imgError from '../../assets/images/icons/error.svg';
+
 interface NotificationProps {
     status: Status,
     label: string,
@@ -69,8 +72,8 @@ const Notification = ({label, status, text, setIsShown}: NotificationProps) => {
         >
             <div className="notification-icon__container">
                 {status === 'success' 
-                    ? <img src='/images/icons/success.svg' alt='success'/>
-                    : <img src='/images/icons/error.svg' alt='success'/>
+                    ? <img src={imgSucces} alt='success'/>
+                    : <img src={imgError} alt='error'/>
                 }
             </div>
             <div className="notification-content">
