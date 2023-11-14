@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Notification-component/static/css/main.2f6483a7.css",
+    "main.css": "/Notification-component/static/css/main.4745e046.css",
     "main.js": "/Notification-component/static/js/main.3a1968b4.js",
     "static/media/HelveticaNeueCyr-Light.eot": "/Notification-component/static/media/HelveticaNeueCyr-Light.5b2ace6e5cea81d914fe.eot",
     "static/media/HelveticaNeueCyr-Light.ttf": "/Notification-component/static/media/HelveticaNeueCyr-Light.12b3d3f922869c7d3ef6.ttf",
@@ -11,11 +11,11 @@
     "index.html": "/Notification-component/index.html",
     "static/media/error.svg": "/Notification-component/static/media/error.d5f7a24673c2387c0495d6512150aada.svg",
     "static/media/success.svg": "/Notification-component/static/media/success.eabf5a2d7f52dc928626048627bb0117.svg",
-    "main.2f6483a7.css.map": "/Notification-component/static/css/main.2f6483a7.css.map",
+    "main.4745e046.css.map": "/Notification-component/static/css/main.4745e046.css.map",
     "main.3a1968b4.js.map": "/Notification-component/static/js/main.3a1968b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6483a7.css",
+    "static/css/main.4745e046.css",
     "static/js/main.3a1968b4.js"
   ]
 }
