@@ -1,13 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+    font-family: 'Helvetica Neue Cyr Light';
+    src: url('./fonts/helveticaneuecyr-light/HelveticaNeueCyr-Light.eot');
+    src: url('./fonts/helveticaneuecyr-light/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/helveticaneuecyr-light/HelveticaNeueCyr-Light.woff') format('woff'),
+    url('./fonts/helveticaneuecyr-light/HelveticaNeueCyr-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+    font-family: 'Helvetica Neue Cyr Medium';
+    src: url('./fonts/helveticaneuecyr-medium/HelveticaNeueCyr-Medium.eot');
+    src: url('./fonts/helveticaneuecyr-medium/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/helveticaneuecyr-medium/HelveticaNeueCyr-Medium.woff') format('woff'),
+    url('./fonts/helveticaneuecyr-medium/HelveticaNeueCyr-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue Cyr Light';
 }
