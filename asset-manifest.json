@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b283e41a.css",
-    "main.js": "/static/js/main.c872d16f.js",
-    "static/media/HelveticaNeueCyr-Light.eot": "/static/media/HelveticaNeueCyr-Light.5b2ace6e5cea81d914fe.eot",
-    "static/media/HelveticaNeueCyr-Light.ttf": "/static/media/HelveticaNeueCyr-Light.12b3d3f922869c7d3ef6.ttf",
-    "static/media/HelveticaNeueCyr-Medium.eot": "/static/media/HelveticaNeueCyr-Medium.22e00c05b586f8eb27ef.eot",
-    "static/media/HelveticaNeueCyr-Medium.ttf": "/static/media/HelveticaNeueCyr-Medium.e7b6c004d2e5e75830e4.ttf",
-    "static/media/HelveticaNeueCyr-Light.woff": "/static/media/HelveticaNeueCyr-Light.1eb80cac8e7301df097f.woff",
-    "static/media/HelveticaNeueCyr-Medium.woff": "/static/media/HelveticaNeueCyr-Medium.38778f81253085655aa2.woff",
-    "index.html": "/index.html",
-    "main.b283e41a.css.map": "/static/css/main.b283e41a.css.map",
-    "main.c872d16f.js.map": "/static/js/main.c872d16f.js.map"
+    "main.css": "/Notification-component/static/css/main.2f6483a7.css",
+    "main.js": "/Notification-component/static/js/main.c872d16f.js",
+    "static/media/HelveticaNeueCyr-Light.eot": "/Notification-component/static/media/HelveticaNeueCyr-Light.5b2ace6e5cea81d914fe.eot",
+    "static/media/HelveticaNeueCyr-Light.ttf": "/Notification-component/static/media/HelveticaNeueCyr-Light.12b3d3f922869c7d3ef6.ttf",
+    "static/media/HelveticaNeueCyr-Medium.eot": "/Notification-component/static/media/HelveticaNeueCyr-Medium.22e00c05b586f8eb27ef.eot",
+    "static/media/HelveticaNeueCyr-Medium.ttf": "/Notification-component/static/media/HelveticaNeueCyr-Medium.e7b6c004d2e5e75830e4.ttf",
+    "static/media/HelveticaNeueCyr-Light.woff": "/Notification-component/static/media/HelveticaNeueCyr-Light.1eb80cac8e7301df097f.woff",
+    "static/media/HelveticaNeueCyr-Medium.woff": "/Notification-component/static/media/HelveticaNeueCyr-Medium.38778f81253085655aa2.woff",
+    "index.html": "/Notification-component/index.html",
+    "main.2f6483a7.css.map": "/Notification-component/static/css/main.2f6483a7.css.map",
+    "main.c872d16f.js.map": "/Notification-component/static/js/main.c872d16f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b283e41a.css",
+    "static/css/main.2f6483a7.css",
     "static/js/main.c872d16f.js"
   ]
 }
